@@ -1,2 +1,2 @@
 # BasicGitTutorial
-Second repository for learning Git and Github
+Second repository for learning Git and Github.
